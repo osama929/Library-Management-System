@@ -50,13 +50,6 @@ This is a simple console-based Library Management System implemented in C++. The
 
 ## Dependencies
 
-- Standard C++ libraries (`iostream`, `vector`, `queue`, `string`, `cmath`, `algorithm`)
-
-## Future Improvements
-
-- Implement a file-based database to persist book records.
-- Improve UI with a graphical interface.
-- Enhance search functionality with more filters.
-- Add user authentication for borrowing and returning books.
+- Standard C++ libraries (`iostream`, `vector`, `queue`, `string`, `algorithm`)
 
 
